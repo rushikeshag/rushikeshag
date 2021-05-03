@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rushikeshag
+- 👋 Hi, I’m @rushikesh
 - 👀 I’m interested in Java Spring boot and Flutter
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on spring boot or flutter
